@@ -1,0 +1,7 @@
+# Model checkpoints and trained artifacts (large binaries, regenerable from notebooks)
+**/Models/
+
+# Jupyter/Python cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

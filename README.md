@@ -1,4 +1,4 @@
-# Deep Learning Stock Prediction
+# Ensemble Model Stock Prediction
 
 **Combining Statistical and Deep Learning Techniques for Stock Price Prediction**
 

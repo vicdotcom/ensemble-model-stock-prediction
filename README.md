@@ -2,7 +2,7 @@
 
 **Combining Statistical and Deep Learning Techniques for Stock Price Prediction: A Case Study of Stocks Listed on the Nairobi Securities Exhange**
 
-This repository contains the code and data behind the MSc dissertation titled above. We assess whether stock price forecasts can be improved by combining a classic statistical model (ARIMA) with modern deep learning architectures (LSTM, xLSTM, Transformers). The full dissertation write-up can be found in this repo.
+This repository contains the code and data behind the MSc dissertation titled above. We assess whether stock price forecasts can be improved by combining a classic statistical model (ARIMA) with modern deep learning architectures (LSTM, xLSTM, Transformers). The full dissertation write-up is also included in this repo.
 
 ## The problem
 
